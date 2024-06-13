@@ -2,7 +2,8 @@
 
 |  NAMA | NIM | LINK PDF 1 |
 | --- | --- | --- | 
-| Muhammad Zidan Fadillah | 312210277 | [312210277_Muhammad Zidan Fadillah_Analisa Kebutuhan Sistem_Usecase-.pdf](https://github.com/user-attachments/files/15821941/312210277_Muhammad.Zidan.Fadillah_Analisa.Kebutuhan.Sistem_Usecase-.pdf)
+| Muhammad Zidan Fadillah | 312210277 | [312210277_Muhammad Zidan Fadillah_Analisa Kebutuhan Sistem_Usecase_,.pdf](https://github.com/user-attachments/files/15823560/312210277_Muhammad.Zidan.Fadillah_Analisa.Kebutuhan.Sistem_Usecase_.pdf)
+
 
 
 

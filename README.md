@@ -1,5 +1,10 @@
 # TUGAS MEMBUAT USE CASE
 
+
+# USE CASE
+![usecase1](https://github.com/muhammadzidanfadilah/Tugas_Analisa_Kebutuhan_Sistem_Usecase_Pertemuan11/assets/115553474/4db2cecd-6d85-4a34-a42b-ddf470f13411)
+
+
 |  NAMA | NIM | LINK PDF Usecase 1 |
 | --- | --- | --- | 
 | Muhammad Zidan Fadillah | 312210277 | [312210277_Muhammad Zidan Fadillah_Analisa Kebutuhan Sistem_Usecase_,.pdf](https://github.com/user-attachments/files/15823560/312210277_Muhammad.Zidan.Fadillah_Analisa.Kebutuhan.Sistem_Usecase_.pdf)
